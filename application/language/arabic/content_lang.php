@@ -1,0 +1,35 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+$lang['welcome'] = 'أهلا بكم في متجرنا ';
+$lang['home'] = 'الرئيسية';
+$lang['features'] = 'الميزات';
+$lang['shop'] = 'تسوق';
+$lang['products'] = 'المنتجات';
+$lang['product'] = 'منتج';
+$lang['pages'] = 'الصفحات';
+$lang['blog'] = 'مدونة';
+$lang['call_us'] = 'اتصل بنا';
+$lang['my_account'] = 'حسابي';
+$lang['language'] = 'اللغة';
+$lang['english'] = 'انكليزي';
+$lang['arabic'] = 'عربي';
+$lang['currency'] = 'العملة';
+$lang['checkout'] = 'الدفع';
+$lang['view_cart'] = 'إظهار السلة';
+$lang['shop_now'] = 'تسوق الاّن';
+$lang['special_offer'] = 'عرض خاص';
+$lang['latest_drops'] = 'اّخر المنتجات';
+$lang['stor_info'] = 'معلومات المتجر';
+$lang['subscribe'] = 'اشترك';
+$lang['login'] = 'تسجيل دخول';
+$lang['logout'] = 'تسجيل خروج';
+$lang['register'] = 'انشاء حساب';
+$lang['customers_login'] = "تسجيل دخول الزبائن";
+$lang['name'] = "الاسم";
+$lang['email'] = "البريد الالكتروني";
+$lang['password'] = "كلمة السر";
+$lang['new_customer'] = "زبون جديد !";
+$lang['create_account'] = "إنشاء حساب جديد";
+$lang['create_account_text'] = "قم بالتسجيل للحصول على حساب مجاني في متجرنا. تسجيل سريع وسهل. يتيح لك إمكانية الطلب من متجرنا. لبدء التسوق انقر فوق التسجيل.";
+$lang['our_collection'] = "مجموعتنا";
